@@ -1,0 +1,13 @@
+
+
+.button{
+	margin-left: 30em;
+	margin-top: 10em;
+	height: 2.5em;
+	width: 7em;
+	border-radius: 6px;
+	border: none;
+	background-color: rgb(77, 77, 157);
+	color: white;
+	letter-spacing: 1px;
+}
